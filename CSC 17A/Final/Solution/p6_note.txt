@@ -1,0 +1,20 @@
+         [8]  [9]
+0100 0010 0   .000 0111 1001 1001 1001 1010
+0100 0010 0   .000 0111 1001 1001 1001 1010
+power = 1000 0100
+128+4=127+7 = 5
+
+4 2 0 7 9 9 9 C
+power=positive
+int i=9;i=9+power;i++ = int  !remember to add 1 at the begining
+int i=9+power;i<32;i++ = dec
+
+power = positive
+add power-1 ? 0
+
+add all and check [0] sign bit
+
+23
+100001
+           
+0 10000100 000 0111 1001 1001 1001 1010
