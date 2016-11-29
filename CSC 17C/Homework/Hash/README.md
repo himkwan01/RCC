@@ -1,0 +1,1 @@
+Simulate the hash table and check for maximum collection and first collision
