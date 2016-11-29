@@ -1,0 +1,13 @@
+4=ans
+5=input
+6=copy
+7=try counter
+8=index counter
+10=x
+11=o
+
+s0=10-try
+s14=10
+s31=acc
+
+output original number error
