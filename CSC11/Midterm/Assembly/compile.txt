@@ -1,0 +1,2 @@
+as -o midterm.o midterm.s
+gcc- o midterm midterm.o
