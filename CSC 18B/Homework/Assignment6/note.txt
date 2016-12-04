@@ -1,0 +1,8 @@
+battleship_entity_login
+battleship_entity_user
+battleship_enum_gender
+battleship_xref_player_login
+
+and 
+
+book example
